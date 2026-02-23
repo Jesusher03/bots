@@ -1,4 +1,4 @@
-# Veterinary Console App 🐶
+# Veterinary Console BOT
 
 Console application for a veterinary clinic.
 

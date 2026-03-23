@@ -1,13 +1,17 @@
-# Veterinary Console BOT
+# Veterinary Bot 🐶
 
-Console application for a veterinary clinic.
+Console application for veterinary clinic management.
 
-## Features
-- View schedules
-- View services
-- View veterinarians
-- Contact information
-- Appointment booking system (saves to file)
+### ✨ Features
+- View schedules and services
+- Book appointments
+- Save data to files (persistence)
+- Menu-based navigation
 
-## Author
-Jesus Hernandez
+### 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### How to run
+```bash
+source venv/bin/activate
+python main.py

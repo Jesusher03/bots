@@ -1,4 +1,4 @@
-# Veterinary Bot 🐶
+# Veterinary Bot 
 
 Console application for veterinary clinic management.
 
